@@ -31,7 +31,6 @@ for counter in range(1, 12):
         soup = BeautifulSoup(text, 'html5lib')
         a = soup.findAll('h3',attrs={"class":"field-content"})
         for link in a:
-            url = link.find('a')
             url = link.find('a').attrs['href']
             url = url.strip()
             pressURL = 'https://benniethompson.house.gov'+url
