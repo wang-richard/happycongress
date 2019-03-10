@@ -23,9 +23,9 @@ baseURL = 'https://www.tillis.senate.gov/public/index.cfm/press-releases?page='
 urlsList = []
 errorsList = []
 for counter in range(1, 79):
+    print "URL counter: "+str(counter)
+    targetURL = baseURL+str(counter)
     try:
-        print "URL counter: "+str(counter)
-        targetURL = baseURL+str(counter)
         response = requests.get(targetURL, headers=headers)
         text = response.text
         soup = BeautifulSoup(text, 'html5lib')
