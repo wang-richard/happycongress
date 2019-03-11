@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 11 14:08:57 2019
 
-@author: lilly
+@author: Richard
 """
 
 from bs4 import BeautifulSoup
