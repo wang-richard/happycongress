@@ -38,7 +38,6 @@ for counter in range(1, 101):
             urlsList.append(pressURL)
     
     except:
-        #error message expected per page; do not append to errors list
         print "error has occurred at "+str(counter)
         errorsList.append(targetURL)
         pass
