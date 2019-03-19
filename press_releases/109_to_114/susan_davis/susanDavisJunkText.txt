@@ -1,0 +1,5 @@
+[[{"fid":"399","view_mode":"full","fields":{"format":"full","field_file_image_alt_text[und][0][value]":"Rep. Davis speak about closing the equity gap in CTE programs ","field_file_image_title_text[und][0][value]":"Rep. Davis speak about closing the equity gap in CTE programs "},"type":"media","link_text":null,"attributes":{"alt":
+
+[[{"fid":"335","view_mode":"teaser","fields":{"format":"teaser","field_file_image_alt_text[und][0][value]":"","field_file_image_title_text[und][0][value]":
+
+[[{"fid":"279","view_mode":"teaser","fields":{"format":"teaser","field_file_image_alt_text[und][0][value]":"","field_file_image_title_text[und][0][value]":
