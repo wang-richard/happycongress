@@ -67,7 +67,8 @@ for targetURL in urlsList:
         [x.extract() for x in a.findAll('script')]
         [x.extract() for x in a.findAll('style')]
         [x.extract() for x in a.findAll("span", {'class':'hidden'})]  
-        [x.extract() for x in a.findAll("div", {'class':'hidden'})]    
+        [x.extract() for x in a.findAll("div", {'class':'hidden'})]
+        
         string += a.get_text()
     
     except:
