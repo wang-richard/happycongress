@@ -5,13 +5,6 @@ Created on Fri Apr 19 21:23:48 2019
 @author: Richard
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 19 15:58:09 2019
-
-@author: Richard
-"""
-
 from bs4 import BeautifulSoup
 import requests
 from datetime import datetime
