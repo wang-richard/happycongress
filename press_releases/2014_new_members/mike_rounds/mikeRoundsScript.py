@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup
 import requests
 from datetime import datetime
 from dateutil.parser import parse
-import re
 
 headers = requests.utils.default_headers()
 
