@@ -16,5 +16,9 @@ Press releases for members of Congress who were elected in 2014 in a close elect
 
 Press releases for members of Congress who were newly elected to office in 2014. Members who had previously served as a US Representative or Senator (i.e. an individual elected to the Senate in 2014 who had previsouly served as a US Representative) were excluded as they do not appropriately represent the sample group.
 
+#### **2018_retired_members:**
+
+Press releases for members of Congress who served from 109th to 114th sessions and chose not to run for reelection in 2018.
+
 ## Contact
 For any questions and/or concerns, feel free to contact me at Rtwrtw8@gmail.com.
