@@ -4,9 +4,9 @@
 
 Note: since house.gov and senate.gov pages are retired once the respective member leaves office (i.e. retirement, resignation, promotion, or death), press releases by members who were not serving at the time of the web scraping (March 2019) were not collected as they are essentially lost.
 
-#### **109_to_114:** 
+#### **109_to_115:** 
 
-Press releases for members of Congress serving continuously between the 109th session and 114th session of Congress. Per the note above, members of this list must also be currently in office.
+Press releases for members of Congress serving continuously between the 109th session and 115th session of Congress. Per the note above, members of this list must also be currently in office.
 
 #### **2014_close_elections:** 
 
@@ -18,7 +18,7 @@ Press releases for members of Congress who were newly elected to office in 2014.
 
 #### **2018_retired_members:**
 
-Press releases for members of Congress who served from 109th to 114th sessions and chose not to run for reelection in 2018.
+Press releases for members of Congress who served from 109th to 115th sessions and chose not to run for reelection in 2018.
 
 ## Contact
 For any questions and/or concerns, feel free to contact me at Rtwrtw8@gmail.com.
