@@ -1,8 +1,12 @@
 # happycongress
 
+## **About:**
+
+This repository includes the press release dataset used for my and Dr. Patrick D. Tucker's paper *How Partisanship Influences What Congress Says Online and How They Say It*. This dataset is dedicated to the faculty at Washington University in St. Louis.
+
 ## **Press Releases:** 
 
-Note: since house.gov and senate.gov pages are retired once the respective member leaves office (i.e. retirement, resignation, promotion, or death), press releases by members who were not serving at the time of the web scraping (March 2019) were not collected as they are essentially lost.
+Note: since house.gov and senate.gov pages are retired once the respective member leaves office (i.e. retirement, resignation, promotion, or death), press releases by members who were not serving at the time of the web scraping (March 2019) were not collected.
 
 #### **109_to_115:** 
 
