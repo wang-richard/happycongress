@@ -6,7 +6,7 @@ This repository includes the press release dataset used for my and Dr. Patrick D
 
 ## **Press Releases:** 
 
-Note: since house.gov and senate.gov pages are retired once the respective member leaves office (i.e. retirement, resignation, promotion, or death), press releases by members who were not serving at the time of the web scraping (March 2019) were not collected.
+Note: Since house.gov and senate.gov pages are retired once the respective member leaves office (i.e. retirement, resignation, promotion, or death), press releases by members who were not serving at the time of the web scraping (March 2019) were not collected.
 
 #### **109_to_115:** 
 
@@ -25,6 +25,8 @@ Press releases for members of Congress who were newly elected to office in 2014.
 Press releases for members of Congress who served from 109th to 115th sessions and chose not to run for reelection in 2018.
 
 ## Suggested Citations
+**MLA:**
+
 **APA:**
 
 **BlueBook:**
