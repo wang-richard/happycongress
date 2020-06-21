@@ -20,5 +20,10 @@ Press releases for members of Congress who were newly elected to office in 2014.
 
 Press releases for members of Congress who served from 109th to 115th sessions and chose not to run for reelection in 2018.
 
+## Suggested Citation
+**APA:**
+
+**BlueBook:**
+
 ## Contact
 For any questions and/or concerns, feel free to contact me at Rtwrtw8@gmail.com.
