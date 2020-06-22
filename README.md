@@ -14,7 +14,7 @@ Press releases for members of Congress serving continuously between the 109th se
 
 #### **2014_close_elections:** 
 
-Press releases for members of Congress who were elected in 2014 in a close election (i.e. winning with a vote margin of 5% or less).
+Press releases for members of Congress who were elected in 2014 in a close election (i.e. winning with a vote margin of 5% or less). Since several members elected under a close election in 2014 subsequently lost reelection, and since the population size for the Close Elections Data Set is relatively small, we retrieved press releases from former MCs in this set using the Internet Archive’s [“Wayback Machine.”](https://archive.org/web/)
 
 #### **2014_newly_elected:** 
 
@@ -24,12 +24,8 @@ Press releases for members of Congress who were newly elected to office in 2014.
 
 Press releases for members of Congress who served from 109th to 115th sessions and chose not to run for reelection in 2018.
 
-## Suggested Citations
-**MLA:**
-
-**APA:**
-
-**BlueBook:**
+## Suggested Citation
+Wang, Richard T. and Patrick D. Tucker. Forthcoming. “How Partisanship Influences What Congress Says Online, and How They Say It.” *American Politics Research*.
 
 ## Contact
 For any questions and/or concerns, feel free to contact me at Rtwrtw8@gmail.com.
