@@ -2,7 +2,7 @@
 
 ## **About:**
 
-This repository includes the press release dataset used for my and Dr. Patrick D. Tucker's paper *How Partisanship Influences What Congress Says Online and How They Say It*. This dataset is dedicated to the faculty at Washington University in St. Louis.
+This repository includes the press release dataset used for my and Dr. Patrick D. Tucker's paper [*How Partisanship Influences What Congress Says Online and How They Say It*](https://journals.sagepub.com/doi/10.1177/1532673X20939498). This dataset is dedicated to the faculty at Washington University in St. Louis.
 
 ## **Press Releases:** 
 
@@ -25,7 +25,8 @@ Press releases for members of Congress who were newly elected to office in 2014.
 Press releases for members of Congress who served from 109th to 115th sessions and chose not to run for reelection in 2018.
 
 ## Suggested Citation
-Wang, Richard T. and Patrick D. Tucker. Forthcoming. “How Partisanship Influences What Congress Says Online, and How They Say It.” *American Politics Research*.
+Wang, R. T., & Tucker, P. D. (2020). How Partisanship Influences What Congress Says Online and How They Say It. *American Politics Research*.       https://doi.org/10.1177/1532673X20939498
+
 
 ## Contact
 For any questions and/or concerns, feel free to contact me at Rtwrtw8@gmail.com.
