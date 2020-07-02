@@ -2,7 +2,7 @@
 
 ## **About:**
 
-This repository includes the press release dataset used for my and Dr. Patrick D. Tucker's paper [*How Partisanship Influences What Congress Says Online and How They Say It*](https://journals.sagepub.com/doi/10.1177/1532673X20939498). This dataset is dedicated to the faculty at Washington University in St. Louis.
+This repository includes the press release dataset used for my and Dr. Patrick D. Tucker's paper [How Partisanship Influences What Congress Says Online and How They Say It](https://journals.sagepub.com/doi/10.1177/1532673X20939498). This dataset is dedicated to the faculty at Washington University in St. Louis.
 
 ## **Press Releases:** 
 
