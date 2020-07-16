@@ -25,7 +25,7 @@ Press releases for members of Congress who were newly elected to office in 2014.
 Press releases for members of Congress who served from 109th to 115th sessions and chose not to run for reelection in 2018.
 
 ## Suggested Citation
-Wang, R. T., & Tucker, P. D. (2020). How Partisanship Influences What Congress Says Online and How They Say It. *American Politics Research*.       https://doi.org/10.1177/1532673X20939498
+Wang, R. T., & Tucker, P. D. (2020). How Partisanship Influences What Congress Says Online and How They Say It. *American Politics Research*.       https://doi.org/10.1177/1532673X20939498.
 
 
 ## Contact
